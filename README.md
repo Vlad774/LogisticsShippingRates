@@ -1,1 +1,1 @@
-# ed-LogisticsShippingRates
+# LogisticsShippingRates
